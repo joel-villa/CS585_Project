@@ -18,4 +18,7 @@
   - What is the range? 
   - What kind of information/files can be sent?
   - Why would this stay up in a scenario when the internet goes down?
+4. If we get bored/need more to do:
+  - Wavest (ultrasonic communication): https://github.com/bennjordan/Wavest
+  - Bluetooth (awaiting articles from Dr.Palacios)
 
