@@ -7,7 +7,7 @@
 - Ultrasonic (Wavest): https://github.com/bennjordan/Wavest
 
 
-## Project Idea A (Work In Progress):
+## Project Goals (Work In Progress):
 
 1. Compilation of literature on methods of communication in emergency contexts
   i.e. **NO** internet connection
