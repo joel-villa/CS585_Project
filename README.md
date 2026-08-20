@@ -36,14 +36,14 @@ would be willing to donate their time) **To help collect data on the hardware
 device we end up choosing**.  
 3. Collect data about the chosen networking hardware. Some potential data 
 ideas are as follows (input-pending):
-  1. Communication latency (how quick data travels from point a to point b)
-  2. Communication bandwidth (how much data can be sent)
-  3. Measure of how adding more devices affects latency + bandwidth (this could
-    help argue for a larger scale project, if measurable improvements are seen)
-  4. Some ideas with privacy concerns (would likely have to occur on an opt-in
-    temporary basis - or only UNM group members could do this if too much of 
-    a headach):
-    1. Distance: how does it affect latency and bandwidth? (requires location
-      tracking)
-    2. Distance with devices in between (this is a more measurable extension of
-      idea (c))
+    1. Communication latency (how quick data travels from point a to point b)
+    2. Communication bandwidth (how much data can be sent)
+    3. Measure of how adding more devices affects latency + bandwidth (this could
+      help argue for a larger scale project, if measurable improvements are seen)
+    4. Some ideas with privacy concerns (would likely have to occur on an opt-in
+      temporary basis - or only UNM group members could do this if too much of 
+      a headach):
+        1. Distance: how does it affect latency and bandwidth? (requires location
+          tracking)
+        2. Distance with devices in between (this is a more measurable extension of
+          idea (c))
