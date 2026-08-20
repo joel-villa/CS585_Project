@@ -14,18 +14,18 @@
 2. Inhouse testing of things (acquire hardware, setup, etc.)
 3. Educate the class on how to use mesh or some other form of
   communication. With the goal of answering the following questions:
-  1. What is mesh (or other method)? Non internet based method of local 
-  communication 
-  2. How expensive is the hardware? 
-  3. Where to buy?
-  4. How to setup?
-  5. **How to ensure privacy/security?**
-    6. Is it encrypted?
-    7. How to know when data is recieved? Do you care?
-    8. Handshake?
-  9. What is the range? 
-  10. What kind of information/files can be sent?
-  11. Why would this stay up in a scenario when the internet goes down?
+    1. What is mesh (or other method)? Non internet based method of local 
+    communication 
+    2. How expensive is the hardware? 
+    3. Where to buy?
+    4. How to setup?
+    5. **How to ensure privacy/security?**
+        1. Is it encrypted?
+        2. How to know when data is recieved? Do you care?
+        3. Handshake?
+    10. What is the range? 
+    11. What kind of information/files can be sent?
+    12. Why would this stay up in a scenario when the internet goes down?
 
 ## Project Idea B (In Community):
 
