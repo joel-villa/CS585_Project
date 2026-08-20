@@ -32,9 +32,7 @@ ideas are as follows (input-pending):
     2. Communication bandwidth (how much data can be sent)
     3. Measure of how adding more devices affects latency + bandwidth (this could
       help argue for a larger scale project, if measurable improvements are seen)
-    4. Some ideas with privacy concerns (would likely have to occur on an opt-in
-      temporary basis - or only UNM group members could do this if too much of 
-      a headach):
+    4. Some ideas with privacy concerns:
         1. Distance: how does it affect latency and bandwidth? (requires location
           tracking)
         2. Distance with devices in between (this is a more measurable extension of
