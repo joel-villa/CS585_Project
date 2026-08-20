@@ -4,7 +4,8 @@
 
 - Mesh
 - Bluetooth
-- Ultrasonic
+- Ultrasonic (Wavest): https://github.com/bennjordan/Wavest
+
 
 ## Project Idea A (Isolated):
 
