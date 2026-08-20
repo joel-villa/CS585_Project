@@ -7,7 +7,7 @@
 - Ultrasonic (Wavest): https://github.com/bennjordan/Wavest
 
 
-## Project Idea A (Isolated):
+## Project Idea A (Work In Progress):
 
 1. Compilation of literature on methods of communication in emergency contexts
   i.e. **NO** internet connection
@@ -26,15 +26,7 @@
     10. What is the range? 
     11. What kind of information/files can be sent?
     12. Why would this stay up in a scenario when the internet goes down?
-
-## Project Idea B (In Community):
-
-1. Literature Review on methods of communication in emergency contexts
-  i.e. **NO** internet connection. 
-2. Hardware Distribution + Education of how to use it (find a local group that
-would be willing to donate their time) **To help collect data on the hardware
-device we end up choosing**.  
-3. Collect data about the chosen networking hardware. Some potential data 
+4. Collect data about the chosen networking hardware. Some potential data 
 ideas are as follows (input-pending):
     1. Communication latency (how quick data travels from point a to point b)
     2. Communication bandwidth (how much data can be sent)
