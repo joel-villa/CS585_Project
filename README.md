@@ -38,7 +38,7 @@ ideas are as follows (input-pending):
         1. Distance: how does it affect latency and bandwidth? (requires location
           tracking)
         2. Distance with devices in between (this is a more measurable extension of
-          idea (iii.))
+          idea (iv.))
 
 ### Relevant work
 - [Post-Disaster Communications: Enabling Technologies, Architectures, and Open Challenges]([url](https://ieeexplore.ieee.org/abstract/document/9832657))
