@@ -26,15 +26,23 @@
     10. What is the range? 
     11. What kind of information/files can be sent?
     12. Why would this stay up in a scenario when the internet goes down?
+    13. How are messages prioratized? In what order are messages recieved?
 4. Collect data about the chosen networking hardware. Some potential data 
 ideas are as follows (input-pending):
     1. Communication latency (how quick data travels from point a to point b)
     2. Communication bandwidth (how much data can be sent)
-    3. Measure of how adding more devices affects latency + bandwidth (this could
+    3. Communication ordering (the order in which messages are sent and recieved)
+    4. Measure of how adding more devices affects latency + bandwidth (this could
       help argue for a larger scale project, if measurable improvements are seen)
-    4. Some ideas with privacy concerns:
+    5. Some ideas with privacy concerns:
         1. Distance: how does it affect latency and bandwidth? (requires location
           tracking)
         2. Distance with devices in between (this is a more measurable extension of
           idea (iii.))
+
+### Relevant work
+- [Post-Disaster Communications: Enabling Technologies, Architectures, and Open Challenges]([url](https://ieeexplore.ieee.org/abstract/document/9832657))
+- [Designing delay constrained hybrid ad hoc network infrastructure for post-disaster communication]([url](https://www.sciencedirect.com/science/article/abs/pii/S1570870514001802))
+- [Context-Aware Self-Adaptive Routing for Delay Tolerant Network in Disaster Scenarios]([url](https://www.sciencedirect.com/science/article/abs/pii/S1570870519301507))
+- [HERMES: Metric-Driven Multi-Transport Routing for Civilian Messaging During Connectivity Disruption]([url](https://www.mdpi.com/2673-8732/6/3/64?))
 
